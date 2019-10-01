@@ -1,0 +1,4 @@
+/home/axiom/Desktop/Workspace/IDE-s/clion-2019.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/axiom/Desktop/Workspace/_C/DynamicOctTree_Ci
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/axiom/Desktop/Workspace/_C/DynamicOctTree_Ci/cmake-build-debug

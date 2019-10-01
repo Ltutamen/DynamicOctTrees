@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DynamicOctTree_Ci">
+				<Option output="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/DynamicOctTree_Ci" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 DynamicOctTree_Ci"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DynamicOctTree_Ci/fast">
+				<Option output="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/DynamicOctTree_Ci" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 DynamicOctTree_Ci/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project">
+				<Option output="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project/fast">
+				<Option output="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/main.c">
+			<Option target="DynamicOctTree_Ci"/>
+			<Option target="Project"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/branch/Branch.c">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/branch/Branch.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/leaf/Leaf.c">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/leaf/Leaf.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/leaf/Node.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/leaf/voxel/Voxel.c">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/leaf/voxel/Voxel.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/octtree/OctTree.c">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/octtree/OctTree.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/octtree/files/objFile.c">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/octtree/files/objFile.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/octtree/misc.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/octtree/vectors/Vectors.c">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTree/octtree/vectors/Vectors.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTreeDOP/Sets/TreeBlock.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTreeDOP/Sets/smallSet/SmallSet.c">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTreeDOP/Sets/smallSet/SmallSet.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTreeDOP/dynamicOctTreesDOP.c">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/octTrees/dynamicOctTreeDOP/dynamicOctTreesDOP.h">
+			<Option target="DynamicOctTree_Ci"/>
+		</Unit>
+		<Unit filename="/home/axiom/Desktop/Workspace/C/DynamicOctTree_Ci/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
